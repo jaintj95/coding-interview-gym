@@ -1,107 +1,102 @@
-# https://www.algoexpert.io/questions/Linked%20List%20Construction
-# Write a class for a Doubly Linked List.
-
-
-# Definition for doubly-linked list node.
-# class ListNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-#         self.prev = prev
-
 class DoublyLinkedList:
-
     def __init__(self):
         self.head = None
         self.tail = None
 
     # O(1) time | O(1) space
-    def set_head(self, node):
+    def setHead(self, node):
         if self.head is None:
             self.head = node
             self.tail = node
             return
-        self.insert_before(self.head, node)
+        self.insertBefore(self.head, node)  # corner case -- setting new head
 
     # O(1) time | O(1) space
-    def set_tail(self, node):
+    def setTail(self, node):
         if self.tail is None:
-            self.set_head(node)
+            self.setHead(node)
             return
-        self.insert_after(self.tail, node)
+        self.insertAfter(self.tail, node)
 
     # O(1) time | O(1) space
-    def insert_before(self, node, node_to_insert):
-        if node_to_insert == self.head and node_to_insert == self.tail:
+    def insertBefore(self, node, nodeToInsert):
+        # edge case
+        if nodeToInsert == self.head and nodeToInsert == self.tail:
             return
-        self.remove(node_to_insert)
-        node_to_insert.prev = node.prev
-        node_to_insert.next = node
+        self.remove(nodeToInsert)  # if the node exists in the linked list we will remove it. This step can be skipped
+        nodeToInsert.prev = node.prev
+        nodeToInsert.next = node
         if node.prev is None:
-            self.head = node_to_insert
+            self.head = nodeToInsert
         else:
-            node.prev.next = node_to_insert
-        node.prev = node_to_insert
+            node.prev.next = nodeToInsert
+        node.prev = nodeToInsert
 
     # O(1) time | O(1) space
-    def insert_after(self, node, node_to_insert):
-        if node_to_insert == self.head and node_to_insert == self.tail:
+    def insertAfter(self, node, nodeToInsert):
+        if nodeToInsert == self.head and nodeToInsert == self.tail:
             return
-        self.remove(node_to_insert)
-        node_to_insert.prev = node
-        node_to_insert.next = node.next
-        if node.next is None:
-            self.tail = node_to_insert
+        self.remove(nodeToInsert)  # if the node exists in the linked list we will remove it. This step can be skipped
+        nodeToInsert.prev = node
+        nodeToInsert.next = node.next
+        if node.next == None:
+            self.tail = nodeToInsert
         else:
-            node.next.prev = node_to_insert
-        node.next = node_to_insert
+            node.next.prev = nodeToInsert
+        node.next = nodeToInsert
 
-    # O(p) time | O(1) space
-    def insert_at_position(self, position, node_to_insert):
+    # O(Position) time | O(1) space
+    def insertAtPosition(self, position, nodeToInsert):
         if position == 1:
-            self.set_head(node_to_insert)
+            self.setHead(nodeToInsert)
             return
         node = self.head
-        current_position = 1
-        while node is not None and current_position != position:
+        currentPosition = 1
+        while node is not None and currentPosition != position:
             node = node.next
-            current_position += 1
+            currentPosition += 1
         if node is not None:
-            self.insert_before(node, node_to_insert)
+            self.insertBefore(node, nodeToInsert)
         else:
-            self.set_tail(node)
+            self.setTail(nodeToInsert)
 
     # O(n) time | O(1) space
-    def remove_nodes_with_value(self, value):
+    def removeNodesWithValue(self, value):
         node = self.head
         while node is not None:
-            node_to_remove = node
+            # we need this temp variable because we are losing node.next in removeNodeBindinnodegs()
+            nodeToRemove = node
             node = node.next
-            if node_to_remove.value == value:
-                self.remove(node_to_remove)
+            if nodeToRemove.value == value:
+                self.remove(nodeToRemove)
 
     # O(1) time | O(1) space
     def remove(self, node):
-        if node == self.head:
+        if (node == self.head):
             self.head = self.head.next
-        if node == self.tail:
+        if (node == self.tail):
             self.tail = self.tail.prev
-        self.remove_node_bindings(node)
+        # checks if we are removing head or tail and updating new head or tail
+        self.removeNodeBindings(node)
 
-    def contains_node_with_value(self,  value):
+    # O(n) time | O(1) space
+    def containsNodeWithValue(self, value):
         node = self.head
         while node is not None and node.value != value:
             node = node.next
         return node is not None
 
-    def remove_node_bindings(self, node):
+    def removeNodeBindings(self, node):
         if node.prev is not None:
             node.prev.next = node.next
         if node.next is not None:
             node.next.prev = node.prev
-        node.next = None
         node.prev = None
+        node.next = None
 
 
-
-
+class node:
+    def __init__(self, value):
+        self.prev = None
+        self.next = None
+        self.value = value

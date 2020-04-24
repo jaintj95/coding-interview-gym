@@ -20,7 +20,7 @@
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=az69802909)
 
 
-<h4 align="center">This repo contains around 300 Leetcode.com and 85 Algoexpert.io problems with solutions using Swift and Python</h4>
+<h4 align="center">This repo contains around 400 Leetcode.com and 90 Algoexpert.io problems with solutions using Swift and Python</h4>
 
 <p align="center">
   This repo contains my solutions to algorithmic problems in <a href="https://leetcode.com/parthobiswas007/">leetcode.com</a> and <a href="https://www.algoexpert.io/questions">algoexpert.io</a> written in <b>Swift</b> and <b>Python</b>.
@@ -67,6 +67,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 - and more...
 
 ## Questions from
+
 - [Leetcode](https://leetcode.com)
 - [Algoexpert.io](Algoexpert.io)
 - Glassdoor
@@ -74,6 +75,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 - ...
 
 ## My other related repos
+
 - [Coding Interview Patterns](https://tinyurl.com/wluap5j)
 - [Coding Interview Gym](https://tinyurl.com/wt2dbym)
 - [iOS Interview Gym](https://tinyurl.com/wt5vyzq)
@@ -82,9 +84,12 @@ I have solved quite a number of problems from several topics. See the below tabl
 - [Object Oriented Design Interview Gym](https://tinyurl.com/uhlp9sc)
 
 ## My leetcode account
+
 - [ParthoBiswas007](https://leetcode.com/ParthoBiswas007/)
 
 ## Tips
+
+- Check this **[Golden](https://tinyurl.com/uboo399)** post first.
 - Whenever you solve a new question with some new techniques/algorithms, try to solve atleast 2 similar problem in a row. This way, your understanding to the new techniques/algorithms will be better.
 - Solve all [leetcode cards](https://leetcode.com/explore/learn/)
 - ...
@@ -150,6 +155,27 @@ I have solved quite a number of problems from several topics. See the below tabl
 |43| [442. Find All Duplicates in an Array](https://tinyurl.com/yxxs4vvn)| [Python](https://tinyurl.com/wu6rdaw/442_Find_All_Duplicates_in_an_Array.py)| --- | Medium | Cyclic Sort TODO: Check all other approaches |
 |44| [41. First Missing Positive](https://tinyurl.com/tfewwtv)| [Python](https://tinyurl.com/wu6rdaw/41_First_Missing_Positive.py)| --- | Hard | Cyclic Sort, Very important |
 |45| **[939. Minimum Area Rectangle](https://tinyurl.com/tcr34w3)** | [Python](https://tinyurl.com/wu6rdaw/939_Minimum_Area_Rectangle.py)| [Art 1](https://tinyurl.com/wfgjaf3) | Medium | Hash and Set, Very important |
+|46| **[359. Logger Rate Limiter](https://tinyurl.com/tcr34w3)** | [Python](https://tinyurl.com/wu6rdaw/359_Logger_Rate_Limiter.py)| --- | Easy | Hash and Set, Very important |
+|47| **[48. Rotate Image](https://tinyurl.com/yy3z9hab)** | [Python](https://tinyurl.com/wu6rdaw/48_Rotate_Image.py)| [Must](https://tinyurl.com/tr62top), [Vid  1](https://tinyurl.com/uhnruzt) | Medium | Very important |
+|48| **[362. Design Hit Counter](https://tinyurl.com/sswrcc3)** | [Python](https://tinyurl.com/wu6rdaw/362_Design_Hit_Counter.py), [Swift](https://tinyurl.com/wuja3c4/362_Design_Hit_Counter.swift)| --- | Medium | --- |
+|49| **[289. Game of Life](https://tinyurl.com/y5ujyvu5)** | [Python](https://tinyurl.com/wu6rdaw/289_Game_of_Life.py), [Swift](https://tinyurl.com/wuja3c4/289_Game_of_Life.swift)| --- | Medium | --- |
+|50| **[54. Spiral Matrix](https://tinyurl.com/yy5rnvce)** | [Python](https://tinyurl.com/wu6rdaw/54_Spiral_Matrix.py), [Swift](https://tinyurl.com/wuja3c4/54_Spiral_Matrix.swift)| [Official](https://tinyurl.com/s6np53k), [Algoexpert.io](https://www.algoexpert.io/questions/Spiral%20Traverse) | Medium | --- |
+|51| **[380. Insert Delete GetRandom O(1)](https://tinyurl.com/y3urnkfj)** | [Python](https://tinyurl.com/wu6rdaw/380_Insert_Delete_GetRandom_O(1).py), [Swift](https://tinyurl.com/wuja3c4/380_Insert_Delete_GetRandom_O(1).swift)| [Official](https://tinyurl.com/t4t38od) | Medium | --- |
+|52| **[835. Image Overlap](https://tinyurl.com/r9x9nkm)** | [Python](https://tinyurl.com/wu6rdaw/835_Image_Overlap.py), [Swift](https://tinyurl.com/wuja3c4/835_Image_Overlap.swift)| [Art 1](https://tinyurl.com/tx3gd98), [Art 2](https://tinyurl.com/tnmj6du) | Medium | --- |
+|53| **[1051. Height Checker](https://tinyurl.com/scupmnz)** | [Python](https://tinyurl.com/wu6rdaw/1051_Height_Checker.py), [Swift](https://tinyurl.com/wuja3c4/1051_Height_Checker.swift) | --- | Easy |  |
+|55| **[683. K Empty Slots](https://tinyurl.com/rbyxknc)** | [Python](https://tinyurl.com/wu6rdaw/683_K_Empty_Slots.py), [Swift](https://tinyurl.com/wuja3c4/683_K_Empty_Slots.swift) | [Art 1](https://tinyurl.com/qsenvnd), [Art 2](https://tinyurl.com/u7g6hhy), [Art 3](https://tinyurl.com/vw42pp7) | Hard | TODO: Check monotonic queue approach. Solved it with sliding widow |
+|56| **[849. Maximize Distance to Closest Person](https://tinyurl.com/v44bs88)** | [Python](https://tinyurl.com/wu6rdaw/849_Maximize_Distance_to_Closest_Person.py), [Swift](https://tinyurl.com/wuja3c4/849_Maximize_Distance_to_Closest_Person.swift) | [Art 1](https://tinyurl.com/qsenvnd) | Easy | Not so easy and intuitive. Can be solve is a variety of way. I have used Binary search(A bit over engineered solution). Can be simplifies |
+|57| **[283. Move Zeroes](https://tinyurl.com/y5kxjuvc)** | [Python](https://tinyurl.com/wu6rdaw/283_Move_Zeroes.py), [Swift](https://tinyurl.com/wuja3c4/283_Move_Zeroes.swift) | --- | Easy | Not so easy and intuitive. Uses fast and slow pointer |
+|58| **[163. Missing Ranges](https://tinyurl.com/s297jm7)** | [Python](https://tinyurl.com/wu6rdaw/163_Missing_Ranges.py), [Swift](https://tinyurl.com/wuja3c4/163_Missing_Ranges.swift) | --- | Medium | Man, it's a very trick problem |
+|59| **[1089. Duplicate Zeros](https://tinyurl.com/vdlwjwa)** | [Python](https://tinyurl.com/wu6rdaw/1089_Duplicate_Zeros.py), [Swift](https://tinyurl.com/wuja3c4/1089_Duplicate_Zeros.swift) | [Art 1](https://tinyurl.com/y3b2ynd4) | Easy | Not so easy and intuitive. Check again |
+|60| [941. Valid Mountain Array](https://tinyurl.com/tgdqrrk) | [Python](https://tinyurl.com/wu6rdaw/941_Valid_Mountain_Array.py), [Swift](https://tinyurl.com/wuja3c4/941_Valid_Mountain_Array.swift) |  | Easy |  |
+|61| [731. My Calendar II](https://tinyurl.com/sde6smv) | [Python](https://tinyurl.com/wu6rdaw/731_My_Calendar_II.py), [Swift](https://tinyurl.com/wuja3c4/731_My_Calendar_II.swift) |  | Medium | Merge interval |
+|62| [59. Spiral Matrix II](https://tinyurl.com/pqfjvm7) | [Python](https://tinyurl.com/wu6rdaw/59_Spiral_Matrix_II.py), [Swift](https://tinyurl.com/wuja3c4/59_Spiral_Matrix_II.swift) |  | Medium | loved it |
+|63| **[525. Contiguous Array](https://tinyurl.com/txbs9wh)** | [Python](https://tinyurl.com/wu6rdaw/525_Contiguous_Array.py), [Swift](https://tinyurl.com/wuja3c4/525_Contiguous_Array.swift) | [Art 1](https://tinyurl.com/qmbd2vl) | Medium | loved it. Check again |
+|64| **[379. Design Phone Directory](https://tinyurl.com/ybs3848v)** | [Python](https://tinyurl.com/wu6rdaw/379_Design_Phone_Directory.py), [Swift](https://tinyurl.com/wuja3c4/379_Design_Phone_Directory.swift) |  | Medium |  |
+|65| **[280. Wiggle Sort](https://tinyurl.com/ybnjn6fs)** | [Python](https://tinyurl.com/wu6rdaw/280_Wiggle_Sort.py), [Swift](https://tinyurl.com/wuja3c4/280_Wiggle_Sort.swift) |  | Medium |  |
+|66| [246. Strobogrammatic Number](https://tinyurl.com/ycqwsozh) | [Python](https://tinyurl.com/wu6rdaw/246_Strobogrammatic_Number.py), [Swift](https://tinyurl.com/wuja3c4/246_Strobogrammatic_Number.swift) |  | Easy |  |
+|67| **[845. Longest Mountain in Array](https://tinyurl.com/y9h5uah5)** | [Python](https://tinyurl.com/wu6rdaw/845_Longest_Mountain_in_Array.py), [Swift](https://tinyurl.com/wuja3c4/845_Longest_Mountain_in_Array.swift) |  | Medium |  |
 
 
 </p>
@@ -177,13 +203,27 @@ I have solved quite a number of problems from several topics. See the below tabl
 |12| [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)| [Python](https://tinyurl.com/wu6rdaw/340_Longest_Substring_with_At_Most_K_Distinct_Characters.py)| [Vid 1](https://tinyurl.com/t55ef99), [Art 1](https://tinyurl.com/vxumhku), [Art 2](https://tinyurl.com/ukyev7f) | Hard | 📌 Sliding window, Two pointer |
 |13| [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)| [Python](https://tinyurl.com/wu6rdaw/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.py)| [Vid 1](https://tinyurl.com/t55ef99) | Hard | 📌 Sliding window, Two pointer |
 |14| [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)| [Python](https://tinyurl.com/wu6rdaw/424_Longest_Repeating_Character_Replacement.py)| **[Vid 1](https://tinyurl.com/svyns7x)**, [Vid 2](https://tinyurl.com/rj3yt25), [Art 1](https://tinyurl.com/yx34cd9c), [Art 2](https://tinyurl.com/suxeoj3), [Art 3](https://tinyurl.com/slpeqnd), [Art 4](https://tinyurl.com/sje2no8) | Medium | 📌 Sliding window, Very important |
-|15| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [Python](https://tinyurl.com/wu6rdaw/76_Minimum_Window_Substring.py)| **[Vid 1](https://tinyurl.com/tv8lqpa)**, **[Vid 2](https://tinyurl.com/v38h4j4)**, **[Vid 3](https://tinyurl.com/ss5ue49)**  | Hard | 📌 Sliding window, Very important |
+|15| **[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)** | [Python](https://tinyurl.com/wu6rdaw/76_Minimum_Window_Substring.py)| **[Vid 1](https://tinyurl.com/tv8lqpa)**, **[Vid 2](https://tinyurl.com/v38h4j4)**, **[Vid 3](https://tinyurl.com/ss5ue49)**  | Hard | 📌 Sliding window, Very important |
 |16| [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)| [Python](https://tinyurl.com/wu6rdaw/727_Minimum_Window_Subsequence.py)| [Vid 1](https://tinyurl.com/seyskk7), [Art 1](https://tinyurl.com/vs9qedt), [Art 2](https://tinyurl.com/v5tud73)  | Hard | 📌 Sliding window and DP, check the DP approach |
 |17| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [Python](https://tinyurl.com/wu6rdaw/438_Find_All_Anagrams_in_a_String.py)| **[Must](https://tinyurl.com/y8jsku3f)**, [Art 1](https://tinyurl.com/wzdp4yp) | Medium | 📌 Sliding window |
 |18| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)| [Python](https://tinyurl.com/wu6rdaw/567_Permutation_in_String.py)| **[Must](https://tinyurl.com/y8jsku3f)** | Medium | 📌 Sliding window |
 |19| [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [Python](https://tinyurl.com/wu6rdaw/844_Backspace_String_Compare.py)| --- | Easy | 📌 Two Pointer |
 |20| **[809. Expressive Words](https://tinyurl.com/vuv9uud)**| [Python](https://tinyurl.com/wu6rdaw/809_Expressive_Words.py)| [Art 1](https://tinyurl.com/rzlvfn7) | Medium | 📌 Logic ad analytical prolem |
 |21| **[271. Encode and Decode Strings](https://tinyurl.com/u7hce8m)**| [Python](https://tinyurl.com/wu6rdaw/271_Encode_and_Decode_Strings.py)| [Art 1](https://tinyurl.com/wurc9am) | Medium | 📌 TODO: Check the second approach. Very Important |
+|22| **[299. Bulls and Cows](https://tinyurl.com/hqcq2v3)**| [Python](https://tinyurl.com/wu6rdaw/299_Bulls_and_Cows.py)| --- | Easy | --- |
+|23| **[833. Find And Replace in String](https://tinyurl.com/yxsjcjym)**| [Python](https://tinyurl.com/wu6rdaw/833_Find_And_Replace_in_String.py)| [Art 1](https://tinyurl.com/y5hod6np) | Medium | --- |
+|24| **[49. Group Anagrams](https://tinyurl.com/rdcu89b)**| [Python](https://tinyurl.com/wu6rdaw/49_Group_Anagrams.py)| [Art 1](https://tinyurl.com/yxyb5pel), [Algoexpert.io](https://tinyurl.com/qwannee) | Medium | --- |
+|25| [551. Student Attendance Record I](https://tinyurl.com/qu89xt8)| [Python](https://tinyurl.com/wu6rdaw/551_Student_Attendance_Record_I.py)|  | Easy | --- |
+|26| [242. Valid Anagram](https://tinyurl.com/yguqjw2g)| [Python](https://tinyurl.com/wu6rdaw/242_Valid_Anagram.py), [Swift](https://tinyurl.com/wuja3c4/242_Valid_Anagram.swift) |  | Easy | --- |
+|27| [1358. Number of Substrings Containing All Three Characters](https://tinyurl.com/ufhkahy)| [Python](https://tinyurl.com/wu6rdaw/1358_Number_of_Substrings_Containing_All_Three_Characters.py), [Swift](https://tinyurl.com/wuja3c4/1358_Number_of_Substrings_Containing_All_Three_Characters.swift) | [Art 1](https://tinyurl.com/sespxql) | Medium | Sliding Window |
+|28| **[459. Repeated Substring Pattern](https://tinyurl.com/tg4sjty)** | [Python](https://tinyurl.com/wu6rdaw/459_Repeated_Substring_Pattern.py), [Swift](https://tinyurl.com/wuja3c4/459_Repeated_Substring_Pattern.swift) | [Art 1](https://tinyurl.com/rrqo8rj) | Easy | I fucking love this problem |
+|29| **[681. Next Closest Time](https://tinyurl.com/rdz29j6)** | [Python](https://tinyurl.com/wu6rdaw/681_Next_Closest_Time.py), [Swift](https://tinyurl.com/wuja3c4/681_Next_Closest_Time.swift) | [Art 1](https://tinyurl.com/vupwnhw) | Medium | I feel stupid after trying my first solution |
+|30| **[925. Long Pressed Name](https://tinyurl.com/s4jbmmk)** | [Python](https://tinyurl.com/wu6rdaw/925_Long_Pressed_Name.py), [Swift](https://tinyurl.com/wuja3c4/925_Long_Pressed_Name.swift) | --- | Easy |  |
+|31| **[949. Largest Time for Given Digits](https://tinyurl.com/ux8dk9e)** | [Python](https://tinyurl.com/wu6rdaw/949_Largest_Time_for_Given_Digits.py), [Swift](https://tinyurl.com/wuja3c4/949_Largest_Time_for_Given_Digits.swift) | --- | Easy | Not so easy |
+|32| [788. Rotated Digits](https://tinyurl.com/t9gelfm) | [Python](https://tinyurl.com/wu6rdaw/788_Rotated_Digits.py), [Swift](https://tinyurl.com/wuja3c4/788_Rotated_Digits.swift) | --- | Easy | --- |
+|33| [388. Longest Absolute File Path](https://tinyurl.com/svfa3rc) | [Python](https://tinyurl.com/wu6rdaw/388_Longest_Absolute_File_Path.py), [Swift](https://tinyurl.com/wuja3c4/388_Longest_Absolute_File_Path.swift) | --- | Medium | --- |
+|34| [616. Add Bold Tag in String](https://tinyurl.com/taftav2) | [Python](https://tinyurl.com/wu6rdaw/616_Add_Bold_Tag_in_String.py), [Swift](https://tinyurl.com/wuja3c4/616_Add_Bold_Tag_in_String.swift) | --- | Medium | Merge intervals(hidden) |
+|35| **[678. Valid Parenthesis String](https://tinyurl.com/y9a3g9kq)** | [Python](https://tinyurl.com/wu6rdaw/678_Valid_Parenthesis_String.py), [Swift](https://tinyurl.com/wuja3c4/678_Valid_Parenthesis_String.swift) | [Art 1](https://tinyurl.com/yad2akx6), [Art 2](https://tinyurl.com/y4odwzll), [Art 3](https://tinyurl.com/y7lkgfom), [Art 4](https://tinyurl.com/ycxpeyzn) | Medium | Super tricky. Much check again |
 
 
 </p>
@@ -196,7 +236,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](https://tinyurl.com/to2yjbw/leetcode.com/swift/2_Add_Two_Numbers.swift)|
+|01| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](https://tinyurl.com/wu6rdaw/2_Add_Two_Numbers.py), [Swift](https://tinyurl.com/wuja3c4/2_Add_Two_Numbers.swift)| --- | Medium | Fundamental |
 |02| [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Python](https://tinyurl.com/wu6rdaw/707_Design_Linked_List.py)|
 |03| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](https://tinyurl.com/wu6rdaw/21_Merge_Two_Sorted_Lists.py)| [Algoexpert.io](https://tinyurl.com/r9azs3n), [Vid 1](https://tinyurl.com/t55smdg) | Easy | Fundamental and very very important |
 |04| [234. Palindrome Linked List](http://bit.ly/2PuZQAx)| [Python](https://tinyurl.com/wu6rdaw/234_Palindrome_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
@@ -218,6 +258,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |20| [160. Intersection of Two Linked Lists](https://tinyurl.com/rz6nrop)| [Python](https://tinyurl.com/wu6rdaw/160_Intersection_of_Tw_Linked_Lists.py)| [Art 1](https://tinyurl.com/urrs7uy), [Art 2](https://tinyurl.com/wkya7ks) | Easy | --- |
 |21| **[138. Copy List with Random Pointer](https://tinyurl.com/uhaw95f)** | [Python](https://tinyurl.com/wu6rdaw/138_Copy_List_with_Random_Pointer.py)| **[Vid 1](https://tinyurl.com/reaqam9), [Art 1](https://tinyurl.com/tnwofvs)** | Medium | **TODO: Check again. Very important. Learned a lot of things** |
 |22| **[430. Flatten a Multilevel Doubly Linked List](https://tinyurl.com/sgpamoh)** | [Python](https://tinyurl.com/wu6rdaw/430_Flatten_a_Multilevel_Doubly_Linked_List.py)| [codinginterviewclass.com](https://tinyurl.com/wtmsrqa), **[Vid 1](https://tinyurl.com/tbp99p2), [Art 1](https://tinyurl.com/un8p7f2)** | Medium | **TODO: Check again. Very important. Learned a lot of things** |
+|23| **[146. LRU Cache](https://tinyurl.com/zu2qbfl)** | [Python](https://tinyurl.com/wu6rdaw/146_LRU_Cache.py)| **[Vid 1](https://tinyurl.com/rtnhhys), [backtobackswe.com](https://tinyurl.com/vbpvjdc), [algoexpert.io](https://tinyurl.com/t2uhpgn)** | Medium | **TODO: Check again. Very important. Learned a lot of things** |
 
 
 </p>
@@ -235,7 +276,16 @@ I have solved quite a number of problems from several topics. See the below tabl
 |02| [155. Min Stack](https://leetcode.com/problems/min-stack/)| [Python](https://tinyurl.com/wu6rdaw/155_Min_Stack.py)|
 |03| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Python](https://tinyurl.com/wu6rdaw/84_Largest_Rectangle_in_Histogram.py)| [Video 01](https://www.youtube.com/watch?v=VNbkzsnllsU), [Video 02](https://www.youtube.com/watch?v=RVIh0snn4Qc), [Article 01](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/), [Article 02](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28917/AC-Python-clean-solution-using-stack-76ms) | Hard | 📌 Need to revise |
 |04| [394. Decode String](https://leetcode.com/problems/decode-string/)| [Python](https://tinyurl.com/wu6rdaw/394_Decode_String.py)| --- | Medium | 📌 Classic stack problem |
-|05| [239. Sliding Window Maximum](https://tinyurl.com/rvhujl5)| [Python](https://tinyurl.com/wu6rdaw/239_Sliding_Window_Maximum.py)| **[Video 1](https://tinyurl.com/v767bl3)**, [Official](https://tinyurl.com/www4np2), [Art 1](https://tinyurl.com/y8nbroux), [Art 2](https://tinyurl.com/s62fzls), **[Art 3](https://tinyurl.com/vd3dtch)**, **[Art 4](https://tinyurl.com/yx3sjp46)** | Hard | 📌 Can be solved using Heap, Deque and DP |
+|05| **[239. Sliding Window Maximum](https://tinyurl.com/rvhujl5)** | [Python](https://tinyurl.com/wu6rdaw/239_Sliding_Window_Maximum.py)| **[Video 1](https://tinyurl.com/v767bl3)**, [Official](https://tinyurl.com/www4np2), [Art 1](https://tinyurl.com/y8nbroux), [Art 2](https://tinyurl.com/s62fzls), **[Art 3](https://tinyurl.com/vd3dtch)**, **[Art 4](https://tinyurl.com/yx3sjp46)** | Hard | 📌 Can be solved using Heap, Deque and DP |
+|06| [739. Daily Temperatures](https://tinyurl.com/ybbezzmt)| [Python](https://tinyurl.com/wu6rdaw/739_Daily_Temperatures.py)| **[Video 1](https://tinyurl.com/sdbkh3z)**, **[Video 2](https://tinyurl.com/rbvaozl)**, [Art 1](https://tinyurl.com/ss3d9tx) | Medium | 📌 TODO: Check again. A tricky one |
+|07| **[150. Evaluate Reverse Polish Notation](https://tinyurl.com/y2xrje8v)** | [Python](https://tinyurl.com/wu6rdaw/150_Evaluate_Reverse_Polish_Notation.py), [Swift](https://tinyurl.com/wuja3c4/150_Evaluate_Reverse_Polish_Notation.swift)| [Vid 1](https://tinyurl.com/s92fp4r) | Medium | --- |
+|08| **[341. Flatten Nested List Iterator](https://tinyurl.com/y6saxwjz)** | [Python](https://tinyurl.com/wu6rdaw/341_Flatten_Nested_List_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/341_Flatten_Nested_List_Iterator.swift)| [Vid 1](https://tinyurl.com/vkj4qll), [Art 1](https://tinyurl.com/wnvvafx), [Art 2](https://tinyurl.com/wmrlxmz), [Art 3](https://tinyurl.com/uplntb3), **[Art 4](https://tinyurl.com/v3q9qfw)**, **[Art 5](https://tinyurl.com/rotxca8)** | Medium | TODO: Check again. Very Important. Learned new things |
+|09| **[173. Binary Search Tree Iterator](https://tinyurl.com/wp2o8h2)** | [Python](https://tinyurl.com/wu6rdaw/173_Binary_Search_Tree_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/173_Binary_Search_Tree_Iterator.swift)| [Vid 1](https://tinyurl.com/vb62v3q), **[Art 1](https://tinyurl.com/smu9ku3)** | Medium | TODO: Check again. Very Important. Learned new things |
+|10| **[284. Peeking Iterator](https://tinyurl.com/wp2o8h2)** | [Python](https://tinyurl.com/wu6rdaw/284_Peeking_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/284_Peeking_Iterator.swift)| **[Art 1](https://tinyurl.com/wv4ufcz)** | Medium | --- |
+|11| **[281. Zigzag Iterator](https://tinyurl.com/rxgn345)** | [Python](https://tinyurl.com/wu6rdaw/281_Zigzag_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/281_Zigzag_Iterator.swift)| **[Art 1](https://tinyurl.com/wv4ufcz)** | Medium | --- |
+|12| **[946. Validate Stack Sequences](https://tinyurl.com/u8wbaqp)** | [Python](https://tinyurl.com/wu6rdaw/946_Validate_Stack_Sequences.py), [Swift](https://tinyurl.com/wuja3c4/946_Validate_Stack_Sequences.swift)| **[Art 1](https://tinyurl.com/um2r3bf)**, **[Art 2](https://tinyurl.com/vc5wmlj)** | Medium | --- |
+|13| **[862. Shortest Subarray with Sum at Least K](https://tinyurl.com/wzdraag)** | [Python](https://tinyurl.com/wu6rdaw/862_Shortest_Subarray_with_Sum_at_Least_K.py), [Swift](https://tinyurl.com/wuja3c4/862_Shortest_Subarray_with_Sum_at_Least_K.swift)| **[Art 1](https://tinyurl.com/rn7rsnf)**, **[Art 2](https://tinyurl.com/ra3ttcg)**, **[Art 3](https://tinyurl.com/swqs6cq)**, **[Art 4](https://tinyurl.com/t8tjjk2)** | Hard | Learned Monotonic Queue. Very interesting problem |
+|14| [346. Moving Average from Data Stream](https://tinyurl.com/sfmwtr5) | [Python](https://tinyurl.com/wu6rdaw/346_Moving_Average_from_Data_Stream.py), [Swift](https://tinyurl.com/wuja3c4/346_Moving_Average_from_Data_Stream.swift)|  | Easy |  |
 
 </p>
 </details>
@@ -264,6 +314,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |14| [895. Maximum Frequency Stack](https://tinyurl.com/szdk34w) | [Python](https://tinyurl.com/wu6rdaw/895_Maximum_Frequency_Stack.py)| [educative.io](https://tinyurl.com/w5cd6yh) | Hard | 📌 TODO: Check again |
 |15| **[378. Kth Smallest Element in a Sorted Matrix](https://tinyurl.com/shz4289)** | [Python](https://tinyurl.com/wu6rdaw/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py)| [educative.io](https://tinyurl.com/scbjgjd) | Hard | 📌 TODO: Check again the Binary Search approach. Very important |
 |16| **[632. Smallest Range Covering Elements from K Lists](https://tinyurl.com/v3fshwo)** | [Python](https://tinyurl.com/wu6rdaw/632_Smallest_Range_Covering_Elements_from_K_Lists.py)| [educative.io](https://tinyurl.com/ubfua7f) | Hard | 📌 TODO: Check again. Very important |
+|17| **[846. Hand of Straights](https://tinyurl.com/y2hfqqsv)** | [Python](https://tinyurl.com/wu6rdaw/846_Hand_of_Straights.py)| **[Art 1](https://tinyurl.com/w8pkf55)** | Medium | 📌 TODO: Check again. Very important |
 
 </p>
 </details>
@@ -280,7 +331,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |03| [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/)| [Python](https://tinyurl.com/wu6rdaw/240_Search_a_2D_Matrix_II.py)| [Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
 |04| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](https://tinyurl.com/wu6rdaw/74_Search_a_2D_Matrix.py)| [Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
 |05| [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)| [Python](https://tinyurl.com/wu6rdaw/1011_Capacity_To_Ship_Packages_Within_D_Days.py)| [Discussion 1](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/discuss/346505/Binary-classification-Python.-Detailed-explanation-Turtle-Code), [Discussion 2](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/discuss/256765/Python-Binary-search-with-detailed-explanation), [Discussion 3](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/discuss/256729/JavaC++Python-Binary-Search/306543) | Medium | Difficult to spot the pattern, revise again |
-|06| [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)| [Python](https://tinyurl.com/wu6rdaw/410_Split_Array_Largest_Sum.py)| [Article 01](https://leetcode.com/problems/split-array-largest-sum/solution/)| Hard | 📌 Not done |
+|06| **[410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)** | [Python](https://tinyurl.com/wu6rdaw/410_Split_Array_Largest_Sum.py)| [Vid 1](https://tinyurl.com/s3j99m4), [Art 1](https://tinyurl.com/vf43ly3), [Art 2](https://tinyurl.com/t8szkym) | Hard | 📌 TODO: Check again. It's a fucking difficult and interesting and important |
 |07| **[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)** | [Python](https://tinyurl.com/wu6rdaw/4_Median_of_Two_Sorted_Arrays.py)| [Article 01](https://tinyurl.com/wn5w5j2), [Art 2](https://tinyurl.com/qm3fbbu) [Video 1](https://www.youtube.com/watch?v=LPFhl65R7ww)| Hard | 📌 Classic problem |
 |08| [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)| [Python](https://tinyurl.com/wu6rdaw/981_Time_Based_Key-Value_Store.py)| [Article 01](https://leetcode.com/problems/time-based-key-value-store/solution/)| Medium | 📌  |
 |09| [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Python](https://tinyurl.com/wu6rdaw/222_Count_Complete_Tree_Nodes.py)| [Theory](http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/9-BinTree/bin-tree.html), [Official Solution](https://leetcode.com/problems/count-complete-tree-nodes/solution/), [Fantastic idea!](https://tinyurl.com/y5s43jtt) | Medium | 📌 BS within BS |
@@ -298,6 +349,16 @@ I have solved quite a number of problems from several topics. See the below tabl
 |21| [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)| [Python](https://tinyurl.com/wu6rdaw/702_Search_in_a_Sorted_Array_of_Unknown_Size.py)| [Educative.io](https://tinyurl.com/qn6uuel) | Medium | 📌 [Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/) |
 |22| **[378. Kth Smallest Element in a Sorted Matrix](https://tinyurl.com/shz4289)** | [Python](https://tinyurl.com/wu6rdaw/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py)| [educative.io](https://tinyurl.com/scbjgjd) | Hard | 📌 TODO: Check again the Binary Search approach. Very important |
 |23| **[1146. Snapshot Array](https://tinyurl.com/v3nb29v)** | [Python](https://tinyurl.com/wu6rdaw/1146_Snapshot_Array.py)| [Art 1](https://tinyurl.com/v3nb29v) | Medium | Tricky use of binary search |
+|24| **[1170. Compare Strings by Frequency of the Smallest Character](https://tinyurl.com/tcr34w3)** | [Python](https://tinyurl.com/wu6rdaw/1170_Compare_Strings_by_Frequency_of_the_Smallest_Character.py)| --- | Easy | Binary Search, Very important |
+|25| [852. Peak Index in a Mountain Array](https://tinyurl.com/rh5c4hs) | [Python](https://tinyurl.com/wu6rdaw/852_Peak_Index_in_a_Mountain_Array.py), [Swift](https://tinyurl.com/wuja3c4/852_Peak_Index_in_a_Mountain_Array.swift) | --- | Easy | --- |
+|25| **[209. Minimum Size Subarray Sum](https://tinyurl.com/wy5g8c4)** | [Python](https://tinyurl.com/wu6rdaw/209_Minimum_Size_Subarray_Sum.py), [Swift](https://tinyurl.com/wuja3c4/209_Minimum_Size_Subarray_Sum.swift) | --- | Medium | Sliding window and Binary Search |
+|26| **[363. Max Sum of Rectangle No Larger Than K](https://tinyurl.com/wxc73z6)** | [Python](https://tinyurl.com/wu6rdaw/363_Max_Sum_of_Rectangle_No_Larger_Than_K.py), [Swift](https://tinyurl.com/wuja3c4/363_Max_Sum_of_Rectangle_No_Larger_Than_K.swift) | [Vid 1](https://tinyurl.com/rq5sgfp), [Vid 2](https://tinyurl.com/wtyob94), [Art 1](https://tinyurl.com/vtj3d2d), [Art 2](https://tinyurl.com/w29ebes), [Art 3](https://tinyurl.com/yxx4yzvn) | Hard | DP and BS. Disn't understand S part. TODO: Check again |
+|27| **[875. Koko Eating Bananas](https://tinyurl.com/wjygtev)** | [Python](https://tinyurl.com/wu6rdaw/875_Koko_Eatin_Bananas.py), [Swift](https://tinyurl.com/wuja3c4/875_Koko_Eatin_Bananas.swift) | --- | Medium | I loved this problem |
+|28| **[1060. Missing Element in Sorted Array](https://tinyurl.com/t3z7cav)** | [Python](https://tinyurl.com/wu6rdaw/1060_Missing_Element_in_Sorted_Array.py), [Swift](https://tinyurl.com/wuja3c4/1060_Missing_Element_in_Sorted_Array.swift) | --- | Medium | I loved this problem |
+|29| **[1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://tinyurl.com/uahn37k)** | [Python](https://tinyurl.com/wu6rdaw/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold.py), [Swift](https://tinyurl.com/wuja3c4/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold.swift) | [Art 1](https://tinyurl.com/t9zgbkn) | Medium | I loved this problem. Sliding window and Binary Search |
+|30| **[774. Minimize Max Distance to Gas Station](https://tinyurl.com/w2hznvj)** | [Python](https://tinyurl.com/wu6rdaw/774_Minimize_Max_Distance_to_Gas_Station.py), [Swift](https://tinyurl.com/wuja3c4/774_Minimize_Max_Distance_to_Gas_Station.swift) | [Vid 1](https://tinyurl.com/tjmrjgq), [Art 1](https://tinyurl.com/teqxwh8), [Art 2](https://tinyurl.com/szc6bjw), [Art 1](https://tinyurl.com/sfc5d2j) | Hard | I loved this problem. Very important |
+|31| **[1231. Divide Chocolate](https://tinyurl.com/rduxzj3)** | [Python](https://tinyurl.com/wu6rdaw/1231_Divide_Chocolate.py), [Swift](https://tinyurl.com/wuja3c4/1231_Divide_Chocolate.swift) | [Art 1](https://tinyurl.com/sl7w7cb), [Art 2](https://tinyurl.com/w9wbcyl), [Art 3](https://tinyurl.com/te6wq5e) | Hard | I loved this problem. Very important |
+
 
 </p>
 </details>
@@ -323,7 +384,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |09| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Python](https://tinyurl.com/wu6rdaw/110_Balanced_Binary_Tree.py)| [Video 1](https://www.youtube.com/watch?v=LU4fGD-fgJQ), [Article 1](https://leetcode.com/problems/balanced-binary-tree/discuss/36042/Two-different-definitions-of-balanced-binary-tree-result-in-two-different-judgments), [Article 2](https://leetcode.com/problems/balanced-binary-tree/discuss/35708/VERY-SIMPLE-Python-solutions-(iterative-and-recursive)-both-beat-90) | Easy | --- |
 |10| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://tinyurl.com/y4s62xbu)| [Python](https://tinyurl.com/wu6rdaw/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)| [Art 1](https://tinyurl.com/y3megvpm), [Art 2](https://tinyurl.com/tazaoyz), [Vid 1](https://tinyurl.com/qoqdsqv) | Medium | DFS, Very Important |
 |11| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://tinyurl.com/yx78og6g)| [Python](https://tinyurl.com/wu6rdaw/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py)| [Art 1](https://tinyurl.com/vlntqrp) | Medium | DFS, Very Important |
-|12| **[889. Construct Binary Tree from Preorder and Postorder Traversal](https://tinyurl.com/y578ty5u)** | [Python](https://tinyurl.com/wu6rdaw/889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.py)| [Vid 1](https://tinyurl.com/r6d4ym5), [Vid 2](https://tinyurl.com/r6d4ym5), **[Art 1](https://tinyurl.com/tflqhp9)**, [Art 2](https://tinyurl.com/wkq7qyu) | Medium | 📌 **TODO: Check again. Important** |
+|12| **[889. Construct Binary Tree from Preorder and Postorder Traversal](https://tinyurl.com/y578ty5u)** | [Python](https://tinyurl.com/wu6rdaw/889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.py)| [Vid 1](https://tinyurl.com/r6d4ym5), **[Art 1](https://tinyurl.com/tflqhp9)**, [Art 2](https://tinyurl.com/wkq7qyu) | Medium | 📌 **TODO: Check again. Important** |
 |13| **[124. Binary Tree Maximum Path Sum](https://tinyurl.com/yycvxmmy)**| [Python](https://tinyurl.com/wu6rdaw/124_Binary_Tree_Maximum_Path_Sum.py)| [Art 1](https://tinyurl.com/uocr9np), [Art 2](https://tinyurl.com/s23sqhe), [Vid 1](https://tinyurl.com/wwe95qx), [AlgoExpert](https://tinyurl.com/vofbonm) | Very Hard | **Very important and tricky** |
 |14| **[979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)**| [Python](https://tinyurl.com/wu6rdaw/979_Distribute_Coins_in_Binary_Tree.py)| [Art 1](https://tinyurl.com/rugoa38), [Art 2](https://tinyurl.com/whkdbl4), [Art 3](https://tinyurl.com/s62fws7) | Medium | **Very important. Postorder DFS** |
 |15| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Python](https://tinyurl.com/wu6rdaw/116_Populating_Next_Right_Pointers_in_Each_Node.py)| [Art 1](https://tinyurl.com/t6p8kjb), [Art 2](https://tinyurl.com/ujzrhkj), **[Art 3](https://tinyurl.com/unrow77)** | Medium | BFS/DFS, Level order traversal |
@@ -339,6 +400,11 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |25| [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Python](https://tinyurl.com/wu6rdaw/257_Binary_Tree_Paths.py)| --- | Easy | DFS |
 |26| **[1145. Binary Tree Coloring Game](https://tinyurl.com/uukf2nm)**| [Python](https://tinyurl.com/wu6rdaw/1145_Binary_Tree_Coloring_Game.py)| [Art 1](https://tinyurl.com/v4k7jaj), [Art 2](https://tinyurl.com/rvwsjar) | Medium | DFS |
 |27| **[298. Binary Tree Longest Consecutive Sequence](https://tinyurl.com/rw2sqxr)**| [Python](https://tinyurl.com/wu6rdaw/298_Binary_Tree_Longest_Consecutive_Sequence.py)| **[Art 1](https://tinyurl.com/wmlq6md)** | Medium | DFS |
+|28| **[951. Flip Equivalent Binary Trees](https://tinyurl.com/wj4bqms)**| [Python](https://tinyurl.com/wu6rdaw/951_Flip_Equivalent_Binary_Trees.py)| **[Vid 1](https://tinyurl.com/uw378m8)**, [Art 1](https://tinyurl.com/r5d6jkk) | Medium | DFS |
+|29| **[528. Random Pick with Weight](https://tinyurl.com/vf8bruk)**| [Python](https://tinyurl.com/wu6rdaw/528_Random_Pick_with_Weight.py)| **[Vid 1](https://tinyurl.com/usd5r25)**, **[Art 1](https://tinyurl.com/rgwt57q)** | Medium | Very tricky |
+|30| **[236. Lowest Common Ancestor of a Binary Tree](https://tinyurl.com/y54e6gco)**| [Python](https://tinyurl.com/wu6rdaw/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)| **[Vid 1](https://tinyurl.com/udf9oa9)**, **[Vid 2](https://tinyurl.com/stknbyu)**, **[Algoexpert.io](https://tinyurl.com/wwz4m5t)**, **[Official](https://tinyurl.com/yx28t8ff)**, **[Art 1](https://tinyurl.com/v86wcky)**, **[Art 2](https://tinyurl.com/tu7jdzq)**, **[Art 3](https://tinyurl.com/tgvyy7p)** | Medium | TODO: Check Again. Very Important |
+|31| **[114. Flatten Binary Tree to Linked List](https://tinyurl.com/yyc6ol5w)**| [Python](https://tinyurl.com/wu6rdaw/114_Flatten_Binary_Tree_to_Linked_List.py)| [Art 1](https://tinyurl.com/v5s5axv) | Medium | Classic Prolem |
+|32| **[297. Serialize and Deserialize Binary Tree](https://tinyurl.com/ycfugzww)**| [Python](https://tinyurl.com/wu6rdaw/297_Serialize_and_Deserialize_Binary_Tree.py), [Swift](https://tinyurl.com/wuja3c4/297_Serialize_and_Deserialize_Binary_Tree.swift) | [Vid 1](https://tinyurl.com/yx4w25u4) | Hard | Classic Prolem |
 
 </p>
 </details>
@@ -361,6 +427,9 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |08| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](https://tinyurl.com/wu6rdaw/145_Binary_Tree_Postorder_Traversal.py)| --- | Hard | Fundamentals |
 |09| [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Python](https://tinyurl.com/wu6rdaw/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)| --- | Easy | Fundamentals |
 |10| [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [Python](https://tinyurl.com/wu6rdaw/109_Convert_Sorted_List_to_Binary_Search_Tree.py)| --- | Medium | Classic problem. Very important |
+|11| **[729. My Calendar I](https://tinyurl.com/r3ew2lb)** | [Python](https://tinyurl.com/wu6rdaw/729_My_Calendar_I.py), [Swift](https://tinyurl.com/wuja3c4/729_My_Calendar_I.swift)| [Art 1](https://tinyurl.com/tbd2z7u), [Art 2](https://tinyurl.com/t35fp3e) | Medium | Use self balancing BST for O(nlogn) solution. **Very important** |
+|12| **[449. Serialize and Deserialize BST](https://tinyurl.com/rx9rn3l)** | [Python](https://tinyurl.com/wu6rdaw/449_Serialize_and_Deserialize_BST.py), [Swift](https://tinyurl.com/wuja3c4/449_Serialize_and_Deserialize_BST.swift)| [Art 1](https://tinyurl.com/t6e2b97) | Medium | --- |
+|13| **[1008. Construct Binary Search Tree from Preorder Traversal](https://tinyurl.com/y6less2m)** | [Python](https://tinyurl.com/wu6rdaw/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal.py), [Swift](https://tinyurl.com/wuja3c4/1008_Construct_Binary_Search_Tree_from_Preorder_Traversal.swift)| [Art 1](https://tinyurl.com/y9mondek), [Art 2](https://tinyurl.com/y8byt732), [Art 3](https://tinyurl.com/yaq7w2jt), [Art 4](https://tinyurl.com/ybwtzpzo) | Medium | --- |
 
 </p>
 </details>
@@ -377,7 +446,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |03| [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [Python](https://tinyurl.com/wu6rdaw/429_N-ary_Tree_Level_Order_Traversal.py)|
 |04| [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Python](https://tinyurl.com/wu6rdaw/559_Maximum_Depth_of_N-ary_Tree.py)|
 |05| [431. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](https://tinyurl.com/wu6rdaw/431_Encode_N-ary_Tree_to_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
-|06| [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](https://tinyurl.com/wu6rdaw/428_Serialize_and_Deserialize_N-ary_Tree.py)|
+|06| **[428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)** | [Python](https://tinyurl.com/wu6rdaw/428_Serialize_and_Deserialize_N-ary_Tree.py)| [Art 1](https://tinyurl.com/tgg874u), **[Official](https://tinyurl.com/sxds3zk)** | Hard | Very important |
 
 </p>
 </details>
@@ -414,7 +483,9 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 
 ### 12. Graphs 
 BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering, Union Find.
+
 **Follow [this](https://tinyurl.com/tcpmneh) golden rule to approach any graph problem.**
+
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -447,6 +518,10 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |24| **[1197. Minimum Knight Moves](https://tinyurl.com/svox8jw)** | [Python](https://tinyurl.com/wu6rdaw/1197_Minimum_Knight_Moves.py)|  **[Art 1](https://tinyurl.com/wed5c6s)** | Medium | TODO: Check AGain. Important. |
 |25| **[1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)** | [Python](https://tinyurl.com/wu6rdaw/1066_Campus_Bikes_II.py)| [Vid 1](https://tinyurl.com/qq6obzv), **[Art 1](https://tinyurl.com/r4wtfbo)** | Medium |📌 **TODO: CHECK Dijkstra approach again. Backtracking solution is getting TLE. Solve it and implement it with DP also. Very important** |
 |26| **[752. Open the Lock](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/752_Open_the_Lock.py)| **[Art 1](https://tinyurl.com/s3oskv8)**, **[Art 2](https://tinyurl.com/rsr4tz9)** | Medium |📌 **TODO: CHECK again. Very important  and interesting problem. Loved it** |
+|27| **[489. Robot Room Cleaner](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/489_Robot_Room_Cleaner.py), [Swift](https://tinyurl.com/wuja3c4/489_Robot_Room_Cleaner.swift) | **[Vid 1](https://tinyurl.com/vahalvm)**, **[Vid 2](https://tinyurl.com/qpumkro)**, **[Art 1](https://tinyurl.com/rnu8679)** | Hard |📌 **TODO: CHECK again. Very important  and interesting problem. I fucking loved it** |
+|28| **[1136. Parallel Courses](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/11136_Parallel_Courses.py), [Swift](https://tinyurl.com/wuja3c4/11136_Parallel_Courses.swift) | --- | Hard |📌 Topological sort. |
+|29| **[947. Most Stones Removed with Same Row or Column](https://tinyurl.com/rrm6w2a)** | [Python](https://tinyurl.com/wu6rdaw/947_Most_Stones_Removed_with_Same_Row_or_Column.py), [Swift](https://tinyurl.com/wuja3c4/947_Most_Stones_Removed_with_Same_Row_or_Column.swift) | [Vid 1](https://tinyurl.com/sc2g6eg), [Art 1](https://tinyurl.com/sxyzxkr), [Vid 2](https://tinyurl.com/wocnrhn), [Art 2](https://tinyurl.com/sogsj74), [Art 3](https://tinyurl.com/w4pk463) | Medium |📌 DFS and Union FInd |
+|30| [1042. Flower Planting With No Adjacent](https://tinyurl.com/unwlzyy) | [Python](https://tinyurl.com/wu6rdaw/1042_Flower_Planting_With_No_Adjacent.py), [Swift](https://tinyurl.com/wuja3c4/1042_Flower_Planting_With_No_Adjacent.swift) | --- | Easy |📌 Could be done using DFS, BFS |
 
 
 </p>
@@ -493,7 +568,10 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |16| [39. Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](https://tinyurl.com/wu6rdaw/39_Combination_Sum.py)| [Article 1](https://tinyurl.com/y5fpdget), [Article 2](https://leetcode.com/problems/combination-sum/discuss/16510/Python-dfs-solution.) | Medium | Backtracking  Fundamentals |
 |17| [40. Combination Sum II](https://tinyurl.com/roqgnjf)| [Python](https://tinyurl.com/wu6rdaw/40_Combination_Sum_II.py)| --- | Medium | Backtracking  Fundamentals |
 |18| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](https://tinyurl.com/wu6rdaw/17_Letter_Combinations_of_a_Phone_Number.py)| [Video 1](https://www.youtube.com/watch?v=a-sMgZ7HGW0), [Video 2 - paid course](https://codinginterviewclass.com/courses/633601/lectures/11653975), [Article 1](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8067/Python-easy-to-understand-backtracking-solution.) | Medium | Backtracking  Fundamentals |
-|19| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://tinyurl.com/wu6rdaw/22_Generate_Parentheses.py)| [educative.io](https://tinyurl.com/wady2xs), [Video 1](https://www.youtube.com/watch?v=sz1qaKt0KGQ), [Article 1](https://leetcode.com/problems/generate-parentheses/discuss/10100/Easy-to-understand-Java-backtracking-solution) | Medium | Backtracking  Fundamentals |
+|19| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://tinyurl.com/wu6rdaw/22_Generate_Parentheses.py), [Swift](https://tinyurl.com/wuja3c4/22_Generate_Parentheses.swift) | [educative.io](https://tinyurl.com/wady2xs), [Video 1](https://www.youtube.com/watch?v=sz1qaKt0KGQ), [Article 1](https://leetcode.com/problems/generate-parentheses/discuss/10100/Easy-to-understand-Java-backtracking-solution) | Medium | Backtracking  Fundamentals |
+|20| [1088. Confusing Number II](https://tinyurl.com/tb7w75j)| [Python](https://tinyurl.com/wu6rdaw/1088_Confusing_Number_II.py), [Swift](https://tinyurl.com/wuja3c4/1088_Confusing_Number_II.swift) | [Art 1](https://tinyurl.com/wby5h93), [Ref 1](https://tinyurl.com/w54thz5) | Hard | Very interesting |
+|21| [465. Optimal Account Balancing](https://tinyurl.com/smsbk4t)| [Python](https://tinyurl.com/wu6rdaw/465_Optimal_Account_Balancing.py), [Swift](https://tinyurl.com/wuja3c4/465_Optimal_Account_Balancing.swift) | **[Art 1](https://tinyurl.com/txuvptu)** | Hard | Loved the question, awsome real life description |
+|22| [1079. Letter Tile Possibilities](https://tinyurl.com/r5xjymk) | [Python](https://tinyurl.com/wu6rdaw/1079_Letter_Tile_Possibilities.py), [Swift](https://tinyurl.com/wuja3c4/1079_Letter_Tile_Possibilities.swift) | --- | Medium |📌 Could be done using DFS, backtracking |
 
 </p>
 </details>
@@ -506,9 +584,9 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| **[1055. Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)**| [Python](https://tinyurl.com/wu6rdaw/1055_Shortest_Way_to_Form_String.py)| [Art 1](https://tinyurl.com/t6xap4c), [Art 2](https://leetcode.com/problems/shortest-way-to-form-string/discuss/330938/Accept-is-not-enough-to-get-a-hire.-Interviewee-4-follow-up) | Medium | 📌 **[Check BS approach again](https://tinyurl.com/t6xap4c)** |
+|01| **[1055. Shortest Way to Form String](https://tinyurl.com/rpwq5bx)**| [Python](https://tinyurl.com/wu6rdaw/1055_Shortest_Way_to_Form_String.py)| [Art 1](https://tinyurl.com/t6xap4c), [Art 2](https://tinyurl.com/y2nu3o52), [Art 3](https://tinyurl.com/wsjho6w), [Art 4](https://tinyurl.com/qrfuedy), [Art 5](https://tinyurl.com/tnzxjjz) | Medium | 📌 **Very important and hard problem** |
 |02| [1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](https://tinyurl.com/wu6rdaw/1057_Campus_Bikes.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)| Medium | 📌 Solve [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) using [DP](https://leetcode.com/problems/campus-bikes-ii/discuss/303471/Python-DP-vs-Backtracking-with-comments), [DFS](https://leetcode.com/problems/campus-bikes-ii/discuss/303383/Python-DFS-with-memorization) and [Priority Queue](https://leetcode.com/problems/campus-bikes-ii/discuss/303422/Python-Priority-Queue) |
-|03| [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| [Python](https://tinyurl.com/wu6rdaw/Minimum_Domino_Rotations_For_Equal_Row.py)| [Official](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/solution/), [Article 01](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/252242/JavaC%2B%2BPython-Different-Ideas)| Medium | 📌 Hard to spot if it is a Greedy |
+|03| **[1007. Minimum Domino Rotations For Equal Row](https://tinyurl.com/y6qgt5fk)** | [Python](https://tinyurl.com/wu6rdaw/Minimum_Domino_Rotations_For_Equal_Row.py)| [Vid 1](https://tinyurl.com/uobop48), [Vid 2](https://tinyurl.com/qkqlcmv),[Art 1](https://tinyurl.com/ufvb3kg),[Art 2](https://tinyurl.com/u85uegn),[Art 3](https://tinyurl.com/yxq7q9v6) | Medium | 📌 Hard to spot if it is a Greedy. Very Important |
 |04| [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)| [Python](https://tinyurl.com/wu6rdaw/406_Queue_Reconstruction_by_Height.py)| [Article 1](https://leetcode.com/problems/queue-reconstruction-by-height/discuss/89345/Easy-concept-with-PythonC%2B%2BJava-Solution), [Article 2](https://leetcode.com/problems/queue-reconstruction-by-height/discuss/89359/Explanation-of-the-neat-Sort%2BInsert-solution) | Medium | 📌 Fundamentals |
 |05| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Python](https://tinyurl.com/wu6rdaw/621_Task_Scheduler.py)| [Ex 1](https://leetcode.com/problems/task-scheduler/discuss/190390/Can-anyone-explain-to-me-what-the-problem-is-asking), [Ex 2](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation), [Vid 1](https://www.youtube.com/watch?v=hVhOeaONg1Y), [Vid 2](https://www.youtube.com/watch?v=zPtI8q9gvX8), [Vid 3](https://www.youtube.com/watch?v=TV9VlHUR-Is), [Vid 4](https://www.youtube.com/watch?v=cr6Ip0J9izc&t=22s) | Medium | 📌 Extremely tricky. Classic problem |
 |06| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [Python](https://tinyurl.com/wu6rdaw/392_Is_Subsequence.py)| [Ex 1](https://leetcode.com/problems/is-subsequence/discuss/87264/Easy-to-understand-binary-search-solution), [Ex 3](https://leetcode.com/problems/is-subsequence/discuss/87302/Binary-search-solution-for-follow-up-with-detailed-comments/144323) | Easy | 📌  |
@@ -522,6 +600,9 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |14| [253. Meeting Rooms II](https://tinyurl.com/r8vr7qo)| [Python](https://tinyurl.com/wu6rdaw/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | Greedy and uses heap |
 |15| [759. Employee Free Time](https://tinyurl.com/y5z73vre)| [Python](https://tinyurl.com/wu6rdaw/759_Employee_Free_Time.py)| [Educative.io](https://tinyurl.com/v42vmyr) | Hard | Greedy and uses heap. Not done. Check again |
 |16| [659. Split Array into Consecutive Subsequences](https://tinyurl.com/vsbddyl) | [Python](https://tinyurl.com/wu6rdaw/659_Split_Array_into_Consecutive_Subsequences.py)| [Art 0](https://tinyurl.com/qq5jucw), [Art 1](https://tinyurl.com/qk7m78s), [Art 2](https://tinyurl.com/sjkdtre), [Art 3](https://tinyurl.com/tnewgqa), **[Vid 1](https://tinyurl.com/u2hnq84)**, **[Art 4](https://tinyurl.com/w3j4yqp)** | Medium | 📌 It's a fucking unclear problem. TODO: Not done. Check again later |
+|17| **[68. Text Justification](https://tinyurl.com/r7bzsul)** | [Python](https://tinyurl.com/wu6rdaw/68_Text_Justification.py)| [Vid 1](https://tinyurl.com/jkx2usg), [Vid 2](https://tinyurl.com/wd7rja2), [Vid 3](https://tinyurl.com/qlbsfqf), [Art 0](https://tinyurl.com/u5r5cuy), [Art 1](https://tinyurl.com/s84dym2) | Hard | TODO: Check again later. Very Important |
+|18| **[134. Gas Station](https://tinyurl.com/skyh4lj)** | [Python](https://tinyurl.com/wu6rdaw/134_Gas_Station.py), [Python](https://tinyurl.com/wu6rdaw/134_Gas_Station.py), [Swift](https://tinyurl.com/wuja3c4/134_Gas_Station.swift) | [Vid 1](https://tinyurl.com/qq8xf4v), [Art 1](https://tinyurl.com/ss9sxju) | Medium | TODO: Check again later. Very Important |
+|19| [1288. Remove Covered Intervals](https://tinyurl.com/wc72tcx) | [Python](https://tinyurl.com/wu6rdaw/1288_Remove_Covered_Intervals.py)| [Art 1](https://tinyurl.com/vpp5hnx) | Medium | **Line Swap with Greedy**. A must read solution. A gold mie, learned a lot |
 
 </p>
 </details>
@@ -529,13 +610,15 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 ### 16. [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+
 **Follow [this](https://tinyurl.com/vmmaxbe) golden rule to approach any DP problem.**
+
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](https://tinyurl.com/wu6rdaw/53_Maximum_Subarray.py)|
+|01| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](https://tinyurl.com/wu6rdaw/53_Maximum_Subarray.py)| [Vid 1](https://tinyurl.com/wnjuna5), [Algoexpert.io](https://tinyurl.com/vqcznww) | Easy | Kadane's Algorithm |
 |02| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](https://tinyurl.com/wu6rdaw/518_Coin_Change_2.py)| **[educative.io](https://tinyurl.com/ro6das2)**, [Vid 1](https://tinyurl.com/wj5xxmw), [codinginterviewclass.com](https://tinyurl.com/urd4fg5), [Algoexpert.io](https://tinyurl.com/rv4r9e6) | Medium | Unbounded Knapsack |
 |03| [322. Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](https://tinyurl.com/wu6rdaw/322_Coin_Change.py)| **[educative.io](https://tinyurl.com/w7t6jpo)**, [Vid 1](https://tinyurl.com/qlqrz6z), [Algoexpert.io](https://tinyurl.com/sv32o4z) | Medium | Unbounded Knapsack |
 |04| **[72. Edit Distance](https://leetcode.com/problems/edit-distance/)** | [Python](https://tinyurl.com/wu6rdaw/72_Edit_Distance.py)| **[educative.com](https://tinyurl.com/wzxp6ef)**, **[algoexpert.io](https://tinyurl.com/szk8rub)**, **[codinginterviewclass.com](https://tinyurl.com/rj6d8fm)**, [Vid 1](https://tinyurl.com/y6chhmm9), [Vid 2](https://tinyurl.com/y4a7ohay)| Hard | TODO: Check again. Very important and classic. Levenshtein Distance |
@@ -573,6 +656,16 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |36| **[97. Interleaving String](https://tinyurl.com/qmp8yn5)** | [Python](https://tinyurl.com/wu6rdaw/97_Interleaving_String.py)| **[educative.io](https://tinyurl.com/uzbogsf)**, [Vid 1](https://tinyurl.com/wlmpvjo) | Hard | TODO: Check again. Very difficult and tricky to understand |
 |37| [1048. Longest String Chain](https://tinyurl.com/uvb5v6s) | [Python](https://tinyurl.com/wu6rdaw/1048_Longest_String_Chain.py)| [Art 1](https://tinyurl.com/tcslm9l) | Medium | Modified LIS |
 |38| **[801. Minimum Swaps To Make Sequences Increasing](https://tinyurl.com/rvtcyvb)** | [Python](https://tinyurl.com/wu6rdaw/801_Minimum_Swaps_To_Make_Sequences_Increasing.py)| [Art 1](https://tinyurl.com/tzx7wpv), [Art 2](https://tinyurl.com/ugybcmz) | Medium | TODO: Check again. Very analytical and tricky to come up with |
+|39| **[279. Perfect Squares](https://tinyurl.com/jcjc6kf)** | [Python](https://tinyurl.com/wu6rdaw/279_Perfect_Squares.py)| **[Must](https://tinyurl.com/raomm4y)**, [Vid 1](https://tinyurl.com/rxpaqe8), [Vis 2](https://tinyurl.com/uevqohx) | Medium | TODO: Check again. Very Important. Very analytical and tricky to come up with |
+|40| **[139. Word Break](https://tinyurl.com/yyyy9dqz)** | [Python](https://tinyurl.com/wu6rdaw/139_Word_Break.py)| **[Must](https://tinyurl.com/sdzmo32)**, [Vid 1](https://tinyurl.com/s4hvakw), [Vis 2](https://tinyurl.com/rjwjanc), [Vid 3](https://tinyurl.com/rdxmwwg) | Medium | TODO: Check again. Very Important. |
+|41| **[62. Unique Paths](https://tinyurl.com/j8xmh7u)** | [Python](https://tinyurl.com/wu6rdaw/62_Unique_Paths.py)| **[Vid 1](https://tinyurl.com/wp6vsqq)**, [Art 1](https://tinyurl.com/roammlg), [Art 2](https://tinyurl.com/tt5fpjk) | Medium | TODO: Check again |
+|42| **[152. Maximum Product Subarray](https://tinyurl.com/rxbfx5k)** | [Python](https://tinyurl.com/wu6rdaw/152_Maximum_Product_Subarray.py), [Swift](https://tinyurl.com/wuja3c4/152_Maximum_Product_Subarray.swift)| **[Vid 1](https://tinyurl.com/t24rc22)**, [Art 1](https://tinyurl.com/uzdpw4k) | Medium | Kadane's algorithm on multiplication |
+|43| **[64. Minimum Path Sum](https://tinyurl.com/ugnoql2)** | [Python](https://tinyurl.com/wu6rdaw/64_Minimum_Path_Sum.py), [Swift](https://tinyurl.com/wuja3c4/64_Minimum_Path_Sum.swift)| --- | Medium | --- |
+|44| **[91. Decode Ways](https://tinyurl.com/t5yx86t)** | [Python](https://tinyurl.com/wu6rdaw/91_Decode_Ways.py), [Swift](https://tinyurl.com/wuja3c4/91_Decode_Ways.swift)| [Vid 1](https://tinyurl.com/wxc7jlj) | Medium | --- |
+|45| **[975. Odd Even Jump](https://tinyurl.com/y5ovyklj)** | [Python](https://tinyurl.com/wu6rdaw/975_Odd_Even_Jump.py), [Swift](https://tinyurl.com/wuja3c4/975_Odd_Even_Jump.swift)| [Vid 1](https://tinyurl.com/vxyed3g), **[Art 1](https://tinyurl.com/wbjrnyt)** | Hard | DP using stack. Vary tricky and Interesting problem, loved it |
+|46| **[562. Longest Line of Consecutive One in Matrix](https://tinyurl.com/u2fb4a6)** | [Python](https://tinyurl.com/wu6rdaw/562_Longest_Line_of_Consecutive_One_in_Matrix.py), [Swift](https://tinyurl.com/wuja3c4/562_Longest_Line_of_Consecutive_One_in_Matrix.swift)| [Art 1](https://tinyurl.com/vqppbae), [Art 2](https://tinyurl.com/t3xtfq8) | Medium |  |
+|47| **[552. Student Attendance Record II](https://tinyurl.com/tnxj5oa)** | [Python](https://tinyurl.com/wu6rdaw/552_Student_Attendance_Record_II.py), [Swift](https://tinyurl.com/wuja3c4/552_Student_Attendance_Record_II.swift)| [Art 1](https://tinyurl.com/rdt2cgr), [Art 2](https://tinyurl.com/s8okmdb), [Art 3](https://tinyurl.com/uhggppt) | Hard | **This is a FUCKING difficult DP problem. Don't dare to solve it** |
+|48| **[1320. Minimum Distance to Type a Word Using Two Fingers](https://tinyurl.com/ur876a6)** | [Python](https://tinyurl.com/wu6rdaw/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers.py), [Swift](https://tinyurl.com/wuja3c4/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers.swift)| [Vid 1](https://tinyurl.com/u5fcb3z), [Art 1](https://tinyurl.com/w386adm), [Art 2](https://tinyurl.com/rnkbhp3), [Art 3](https://tinyurl.com/tqwgraz), [Art 4](https://tinyurl.com/v46fuzm) | Hard | **Important. TODO: Check again** |
 
 
 </p>
@@ -607,18 +700,41 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 
+### 18. Miscellaneous ([Line Swap](https://tinyurl.com/yx5pwdao), [Binary Indexed Tree](), [Segment Tree](https://tinyurl.com/w6jxpcg), [Minimax](https://tinyurl.com/twgbp6n), [Math](https://tinyurl.com/wb2h2mo), AVL Tree, Red-Black Tree, Interval Tree etc)
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
+| #  | Title | Solution | Tutorial | Level | Remarks |
+| --- | --- | --- | --- | --- | --- |
+|01| **[218. The Skyline Problem](https://tinyurl.com/y8om73ah)** | [Python](https://tinyurl.com/wu6rdaw/218_The_Skyline_Problem.py), [Swift](https://tinyurl.com/wuja3c4/218_The_Skyline_Problem.swift)| [Vid 1](https://tinyurl.com/ryu2f5u), [Vid 2](https://tinyurl.com/rae83uz), [Vid 3](https://tinyurl.com/scmrjke), [Vid 4](https://tinyurl.com/vv5pjdz), [Art 1](https://tinyurl.com/nxotn8v) | Hard | TODO: Not Done. Very important. |
+|02| **[375. Guess Number Higher or Lower II](https://tinyurl.com/y6ywak9n)** | [Python](https://tinyurl.com/wu6rdaw/375_Guess_Number_Higher_or_Lower_II.py), [Swift](https://tinyurl.com/wuja3c4/375_Guess_Number_Higher_or_Lower_II.swift)| [Art 0](https://tinyurl.com/y888xrkm), [Art 1](https://tinyurl.com/oaqgkp9), [Art2 2](https://tinyurl.com/vpu9gt2), [Art 3](https://tinyurl.com/rpr83um) | Hard | TODO: Not Done. Very important. Did't understand properly |
+|03| **[843. Guess the Word](https://tinyurl.com/vyk9ynp)** | [Python](https://tinyurl.com/wu6rdaw/843_Guess_the_Word.py)| **[Art 1](https://tinyurl.com/wqy5ll4)** | Hard | **Minimax**. TODO: Check again. Very important and interesting |
+|04| [593. Valid Square](https://tinyurl.com/rr2z8l7) | [Python](https://tinyurl.com/wu6rdaw/593_Valid_Square.py)| [Art 1](https://tinyurl.com/w7gucmn), [Art 2](https://tinyurl.com/qlw7tn4) | Medium | **Math** |
+|05| [1272. Remove Interval](https://tinyurl.com/syvucrt) | [Python](https://tinyurl.com/wu6rdaw/1272_Remove_Interval.py)| [Art 1](https://tinyurl.com/srv4knp) | Medium | **Line Swap** |
+|06| **[1288. Remove Covered Intervals](https://tinyurl.com/wc72tcx)** | [Python](https://tinyurl.com/wu6rdaw/1288_Remove_Covered_Intervals.py)| [Art 1](https://tinyurl.com/vpp5hnx) | Medium | **Line Swap with Greedy**. A must read solution. A gold mie, learned a lot |
+|07| **[1229. Meeting Scheduler](https://tinyurl.com/t6vtlph)** | [Python](https://tinyurl.com/wu6rdaw/1229_Meeting_Scheduler.py)| [Art 1](https://tinyurl.com/rau4xcb) | Medium | **Line Swap**, learned a lot |
+|08| **[850. Rectangle Area II](https://tinyurl.com/utc58vb)** | [Python](https://tinyurl.com/wu6rdaw/850_Rectangle_Area_II.py)| [Art 1](https://tinyurl.com/t59zg3e), [Vid 1](https://tinyurl.com/sumo5b6), [Art 2](https://tinyurl.com/s27k9o4) | Hard | **Line Swap using heap and Segment Tree**. TODO: Solve it using Segment Tree |
+|09| **[307. Range Sum Query - Mutable](https://tinyurl.com/utc58vb)** | [Python](https://tinyurl.com/wu6rdaw/307_Range_Sum_Query_-_Mutable.py)| **[Vid 1](https://tinyurl.com/sumo5b6), [Art 1](https://tinyurl.com/r54yf9y), [Art 2](https://tinyurl.com/srucx8l)** | Medium | **Segment Tree Basics**. Very Important |
+|10| **[327. Count of Range Sum](https://tinyurl.com/ulofnqj)** | [Python](https://tinyurl.com/wu6rdaw/327_Count_of_Range_Sum.py)| **[Vid 1](https://tinyurl.com/sumo5b6), [Art 1](https://tinyurl.com/rlmha9k), [Art 2](https://tinyurl.com/qlqod4c)** | Hard | **Segment Tree Basics**. Very Important |
+|11| **[239. Sliding Window Maximum](https://tinyurl.com/rvhujl5)** | [Python](https://tinyurl.com/wu6rdaw/239_Sliding_Window_Maximum.py)| **[Video 1](https://tinyurl.com/v767bl3)**, [Official](https://tinyurl.com/www4np2), [Art 1](https://tinyurl.com/y8nbroux), [Art 2](https://tinyurl.com/s62fzls), **[Art 3](https://tinyurl.com/vd3dtch)**, **[Art 4](https://tinyurl.com/yx3sjp46)** | Hard | 📌 Here, I have specifically focused on solving it with AVL and Red-Black Tree. A "Queue" approach can be found o Queue section  |
+
+</p>
+</details>
+
+
+
 ---
 
 ---
 
 
 ## AlgoExpert
-<b>77 Problems</b>
+<b>90 Problems</b>
 
 
 ### 1. Arrays
 
-<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<details><summary>Problem statement from AlgoExpert.io with solutions and tutorials/videos</summary>
 <p>
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
@@ -633,6 +749,10 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |08| [Zigzag_Traverse](algoexpert.io/questions/Zigzag_Traverse.md) | [Python](algoexpert.io/python/Zigzag_Traverse.py) |
 |08| [Apartment_Hunting](algoexpert.io/questions/Apartment_Hunting.md) | [Python](algoexpert.io/python/Apartment_Hunting.py) |
 |09| [Calendar_Matching](algoexpert.io/questions/Calendar_Matching.md) | [Python](algoexpert.io/python/Calendar_Matching.py) |
+|10| [Spiral_Traverse](algoexpert.io/questions/Spiral_Traverse.md) | [Python](algoexpert.io/python/Spiral_Traverse.py) |
+|11| [Monotonic_Array](algoexpert.io/questions/Monotonic_Array.md) | [Python](algoexpert.io/python/Monotonic_Array.py) |
+|12| [Move_Element_To_End](algoexpert.io/questions/Move_Element_To_End.md) | [Python](algoexpert.io/python/Move_Element_To_End.py) |
+|13| [Longest_Peak](algoexpert.io/questions/Longest_Peak.md) | [Python](algoexpert.io/python/Longest_Peak.py) |
 
 </p>
 </details>
@@ -650,6 +770,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |03| [Validate_BST](algoexpert.io/questions/Validate_BST.md) | [Python](algoexpert.io/python/Validate_BST.py)|
 |04| [Find_Closest_Value_in_BST](algoexpert.io/questions/Find_Closest_Value_In_BST.md) | [Python](algoexpert.io/python/Find_Closest_Value_in_BST.py)|
 |05| [BST_Traversal](algoexpert.io/questions/BST_Traversal.md) | [Python](algoexpert.io/python/BST_Traversal.py)|
+|06| [Same_BSTs](algoexpert.io/questions/Same_BSTs.md) | [Python](algoexpert.io/python/Same_BSTs.py)|
 
 </p>
 </details>
@@ -665,6 +786,9 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |01| [Invert_Binary_Tree](algoexpert.io/questions/Invert_Binary_Tree.md) | [Python](algoexpert.io/python/Invert_Binary_Tree.py)|
 |02| [Max_Path_Sum_In_Binary_Tree](algoexpert.io/questions/Max_Path_Sum_In_Binary_Tree.md) | [Python](algoexpert.io/python/Max_Path_Sum_In_Binary_Tree.py) |
 |03| [Iterative_In-order_Traversal](algoexpert.io/questions/Iterative_In-order_Traversal.md) | [Python](algoexpert.io/python/Iterative_In-order_Traversal.py) |
+|04| [Right_Sibling_Tree](algoexpert.io/questions/Right_Sibling_Tree.md) | [Python](algoexpert.io/python/Right_Sibling_Tree.py) |
+|05| [Branch_Sums](algoexpert.io/questions/Branch_Sums.md) | [Python](algoexpert.io/python/Branch_Sums.py) |
+|06| [Flatten_Binary_Tree](algoexpert.io/questions/Flatten_Binary_Tree.md) | [Python](algoexpert.io/python/Flatten_Binary_Tree.py) |
 
 </p>
 </details>
@@ -672,7 +796,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 ### 4. Dynamic Programming
 
-<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<details><summary>Problem statement from AlgoExpert.io with solutions and tutorials/videos</summary>
 <p>
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
@@ -691,6 +815,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |12| [Max_Profit_With_K_Transactions](algoexpert.io/questions/Max_Profit_With_K_Transactions.md) | [Python](algoexpert.io/python/Max_Profit_With_K_Transactions.py) |
 |13| [Palindrome_Partitioning_Min_Cuts](algoexpert.io/questions/Palindrome_Partitioning_Min_Cuts.md) | [Python](algoexpert.io/python/Palindrome_Partitioning_Min_Cuts.py) |
 |14| [Longest_Increasing_Subsequence](algoexpert.io/questions/Longest_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Longest_Increasing_Subsequence.py) | [Video 1](https://www.youtube.com/watch?v=fV-TF4OvZpk), [Video 2](https://www.youtube.com/watch?v=CE2b_-XfVDk), , [Video 3](https://www.hackerrank.com/challenges/longest-increasing-subsequent/problem)|
+|15| [Longest_String_Chain](algoexpert.io/questions/Longest_String_Chain.md) | [Python](algoexpert.io/python/Longest_String_Chain.py) | --- |
 
 </p>
 </details>
@@ -698,13 +823,14 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 ### 5. Famous Algorithm
 
-<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<details><summary>Problem statement from AlgoExpert.io with solutions and tutorials/videos</summary>
 <p>
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Kadane's_Algorithm](algoexpert.io/questions/Kadane's_Algorithm.md) | [Python](algoexpert.io/python/Kadane's_Algorithm.py)|
 |02| [Topological_Sort](algoexpert.io/questions/Topological_Sort.md) | [Python](algoexpert.io/python/Topological_Sort.py) |
+|03| [KMP_Algorithm](algoexpert.io/questions/KMP_Algorithm.md) | [Python](algoexpert.io/python/KMP_Algorithm.py) |
 
 </p>
 </details>
@@ -754,6 +880,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |03| [Find_Loop](algoexpert.io/questions/Find_Loop.md) | [Python](algoexpert.io/python/Find_Loop.py)|
 |04| [Reverse_Linked_List](algoexpert.io/questions/Reverse_Linked_List.md) | [Python](algoexpert.io/python/Reverse_Linked_List.py)|
 |05| [LRU_Cache](algoexpert.io/questions/LRU_Cache.md) | [Python](algoexpert.io/python/LRU_Cache.py)|
+|06| [Merge_Linked_List](algoexpert.io/questions/Merge_Linked_List.md) | [Python](algoexpert.io/python/Merge_Linked_List.py)|
 
 </p>
 </details>
@@ -771,7 +898,9 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |03| [Nth_Fibonacci](algoexpert.io/questions/Nth_Fibonacci.md) | [Python](algoexpert.io/python/Nth_Fibonacci.py)|
 |04| [Product_Sum](algoexpert.io/questions/Product_Sum.md) | [Python](algoexpert.io/python/Product_Sum.py) |
 |05| [Lowest_Common_Manager](algoexpert.io/questions/Lowest_Common_Manager.md) | [Python](algoexpert.io/python/Lowest_Common_Manager.py) |
-|06| [Number_Of_Possible_Binary_Tree_Topologies](algoexpert.io/questions/Number_Of_Possible_Binary_Tree_Topologies.md) | [Python](algoexpert.io/python/Number_Of_Possible_Binary_Tree_Topologies.py) |
+|06| [Number_Of_Possible_Binary_Tree_Topologies](algoexpert.io/questions/Number_Of_Binary_Tree_Topologies.md) | [Python](algoexpert.io/python/Number_Of_Possible_Binary_Tree_Topologies.py) |
+|07| [Interweaving_Strings](algoexpert.io/questions/Interweaving_Strings.md) | [Python](algoexpert.io/python/Interweaving_Strings.py) |
+|08| [Number_Of_Binary_Tree_Topologies](algoexpert.io/questions/Number_Of_Binary_Tree_Topologies.md) | [Python](algoexpert.io/python/Number_Of_Binary_Tree_Topologies.py) |
 
 </p>
 </details>
@@ -829,7 +958,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 ### 13. String
 
-<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<details><summary>Problem statement from AlgoExpert.io with solutions and tutorials/videos</summary>
 <p>
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
@@ -838,8 +967,10 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |02| [Longest_Palindromic_Substring](algoexpert.io/questions/Longest_Palindromic_Substring.md) | [Python](algoexpert.io/python/Longest_Palindromic_Substring.py)|
 |03| [Caesar_Cipher_Encryptor](algoexpert.io/questions/Caesar_Cipher_Encryptor.md) | [Python](algoexpert.io/python/Caesar_Cipher_Encryptor.py)|
 |04| [Longest_Substring_Without_Duplication](algoexpert.io/questions/Longest_Substring_Without_Duplication.md) | [Python](algoexpert.io/python/Longest_Substring_Without_Duplication.py)|
-|05| [Underscorify_Substring](algoexpert.io/questions/Underscorify_Substring.md) | [Python](algoexpert.io/python/Underscorify_Substring.py)|
+|05| [Underscorify_Substring](algoexpert.io/questions/Underscorify_Substring.md) | [Python](algoexpert.io/python/Underscorify_Substring.py)| --- | Hard | TODO: Check again. Difficult to analyse the space ad time complexity |
 |06| [Pattern_Matcher](algoexpert.io/questions/Pattern_Matcher.md) | [Python](algoexpert.io/python/Pattern_Matcher.py)|
+|07| [Smallest_Substring_Containing](algoexpert.io/questions/Smallest_Substring_Containing.md) | [Python](algoexpert.io/python/Smallest_Substring_Containing.py)|
+|08| [Group_Anagrams](algoexpert.io/questions/Group_Anagrams.md) | [Python](algoexpert.io/python/Group_Anagrams.py)|
 
 </p>
 </details>
@@ -874,6 +1005,10 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 <details><summary></summary>
 <p>
 
+Check this **[Golden](https://tinyurl.com/uboo399)** posts first.
+
+-   **[Comprehensive Data Structure and Algorithm Study Guide](https://tinyurl.com/uboo399)**
+
 01. [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
 02. [Nail Every Coding Interview by Becoming Asymmetrical](https://www.youtube.com/watch?v=-THCaZWggTk)
 03. [How to get into FAANG](https://drive.google.com/drive/u/0/folders/1sIdNzi4mOQL_YsPF4HAw-JsDtUneHKiu)
@@ -887,6 +1022,10 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 11. [Software Engineering Interviews: The Golden Path To Passing](https://tinyurl.com/vb77j83)
 12. [A MUST READ](https://tinyurl.com/vzbn34s)
 13. [10 Steps to Solving a Programming Problem](https://tinyurl.com/s663j6z)
+14. [Preparing to Apply or Interview at Google - Youtue playlist](https://tinyurl.com/yx7wceza)
+15. [Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব](https://tinyurl.com/t7dnzs8)
+16. [Coding Interviews](https://tinyurl.com/rofaykt)
+17. **[Tech Interview Handbook](https://tinyurl.com/rofaykt)**
 
 </p>
 </details>
@@ -947,10 +1086,22 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 5. Tree (Tree, BST, BIT, Segment Tree, N-aray Tree, Trie etc)
+### 5. Tree (Binary Tree, BST, AVL, Red-Black, B-Tree, B+ Tree, Segment Tree, Interval Tree, Range Tree, BIT, N-aray Tree, Trie etc)
 <details><summary></summary>
 <p>
 
+#### Tree Basics (or not so basics)
+01. [Binary Tree playlist - Tushar Roy - Coding Made Simple](https://tinyurl.com/txeffh4)
+02. [8 Useful Tree Data Structures Worth Knowing](https://tinyurl.com/t4f8mxg)
+03. [Segment Tree Range Minimum Query](https://tinyurl.com/t3eltjb)
+04. [Exploring Segment Trees](https://tinyurl.com/uqfgfyn)
+05. [AVL Tree - Insertion and Rotations](https://tinyurl.com/qmtgtoc)
+06. [B Trees and B+ Trees. How they are useful in Databases](https://tinyurl.com/v6n9fkm)
+07. [Red Black Tree Insertion](https://tinyurl.com/vb4kf76) ---  NOTE: Partho, read this
+08. [Fenwick Tree or Binary Indexed Tree](https://tinyurl.com/ulq6shu)
+09. [Fenwick Tree ( Binary Index Tree )](https://tinyurl.com/u95w7ud) ---  NOTE: Partho, read this
+
+#### Binary Indexed Tree Vs Fenwick Tree 
 01. [Fenwick Tree or Binary Indexed Tree - youtube](https://www.youtube.com/watch?v=CWDQJGaN1gY)
 02. [Binary Indexed Tree or Fenwick Tree - geeksforgeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
 03. [Binary Indexed Tree or Fenwick Tree - topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/)
@@ -962,6 +1113,26 @@ Learn the following modules by heart. Just knowing all of the following items wi
 09. [What are the differences between segment trees, interval trees, binary indexed trees and range trees?](https://stackoverflow.com/questions/17466218/what-are-the-differences-between-segment-trees-interval-trees-binary-indexed-t)
 10. [Height, Depth and Level of a Tree](https://tinyurl.com/zvm773n)
 11. [What is the difference between tree depth and height?](https://tinyurl.com/vfnvg8q)
+
+#### Self Balancing Binary Search Trees
+01. [Self-balancing binary search tree](https://tinyurl.com/zlq297z)
+02. [Self-Balancing-Binary-Search-Trees (Comparisons)](https://tinyurl.com/rq23p56)
+03. [Self-Balancing Binary Search Trees 101](https://tinyurl.com/rtjr996)
+04. [10.1 AVL Tree - Insertion and Rotations](https://tinyurl.com/qmtgtoc)
+05. [Red Black tree | Introduction to Red Black trees | Data structure](https://tinyurl.com/urrwf5m)
+06. [Red Black Tree Insertion](https://tinyurl.com/wd2z45k)
+07. [Title](https://tinyurl.com/txeffh4)
+08. [Title](https://tinyurl.com/txeffh4)
+09. [Title](https://tinyurl.com/txeffh4)
+
+#### Augmented Binary Search Trees(Interval BS Vs Segment Tree Vs Range Tree)
+01. [Interval Search Trees - video](https://tinyurl.com/s9xl3p8)
+02. [Interval Tree](https://tinyurl.com/u8fnct9)
+03. [What are the differences between segment trees, interval trees, binary indexed trees and range trees?](https://tinyurl.com/qn3vwpz)
+04. [Interval Trees: One step beyond BST](https://tinyurl.com/v9k5ckt)
+05. [Title](https://tinyurl.com/txeffh4)
+06. [Title](https://tinyurl.com/txeffh4)
+
 
 </p>
 </details>
@@ -976,10 +1147,11 @@ Learn the following modules by heart. Just knowing all of the following items wi
 03. [Union Find \[Disjoint Set\] Playlist](https://tinyurl.com/srz7uua)
 04. [Disjoint Sets Data Structure - Weighted Union and Collapsing Find](https://www.youtube.com/watch?v=wU6udHRIkcc)
 05. [Codinginterviewclass.com](https://tinyurl.com/wpgl4nt)
-06. Single/All Source Shortest Path Algorithms: Dijkstra ([1](https://tinyurl.com/r8omw8l), [2](https://tinyurl.com/sscslz7)), Bellman-Ford([1](https://tinyurl.com/tghcsmz), [2](https://tinyurl.com/rdcax5b)), Floyd–Warshall([1](https://tinyurl.com/vsp4ulb), [2](https://tinyurl.com/s5wjb5a))
-07. Dijkstra’s Algorithm Vs Bellman-Ford Algorithm Vs Floyd Warshall Algorithm ([1](https://tinyurl.com/vxwc2je), [2](https://tinyurl.com/s6vff87), [3](https://tinyurl.com/s5o57nz)
-08. Minimum Spanning Tree Algorithm: Prim's ([1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yecuqtty), Kruskal's ([1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yhxpvpkn)
-09. Kruskal's algorithm Vs Prim's algorithm ([1](https://qr.ae/TSEPGc), [2](https://tinyurl.com/yz6399ck), [3](https://tinyurl.com/yz3q7vox)
+06. Single(Di-Bel)/All(Flo) Source Shortest Path Algorithms: Dijkstra ([1](https://tinyurl.com/r8omw8l), [2](https://tinyurl.com/sscslz7)), Bellman-Ford([1](https://tinyurl.com/tghcsmz), [2](https://tinyurl.com/rdcax5b)), Floyd–Warshall([1](https://tinyurl.com/vsp4ulb), [2](https://tinyurl.com/s5wjb5a))
+07. Dijkstra’s Algorithm Vs Bellman-Ford Algorithm Vs Floyd Warshall Algorithm ( [1](https://tinyurl.com/vxwc2je), [2](https://tinyurl.com/s6vff87), [3](https://tinyurl.com/s5o57nz) )
+08. Minimum Spanning Tree Algorithm: Prim's ( [1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yecuqtty), Kruskal's ([1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yhxpvpkn) )
+09. Kruskal's algorithm Vs Prim's algorithm ( [1](https://qr.ae/TSEPGc), [2](https://tinyurl.com/yz6399ck), [3](https://tinyurl.com/yz3q7vox) )
+10. [Tushar Roy - Coding Made Simple - Grapy Algorithm Playlist](https://tinyurl.com/y7qeb9ae)
 
 </p>
 </details>
@@ -1030,6 +1202,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 08. **[Dynamic Programming Patterns - MUST READ](https://tinyurl.com/tenzf8b)**
 09. **[My experience and notes for learning DP](https://tinyurl.com/rjg4vtg)**
 10. **[DP IS EASY! 5 Steps to Think Through DP Questions](https://tinyurl.com/vmmaxbe)**
+11. **[Dynamic Programming Patterns](https://tinyurl.com/tenzf8b)**
 
 </p>
 </details>
@@ -1091,6 +1264,28 @@ Learn the following modules by heart. Just knowing all of the following items wi
 06. [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
 07. [Breaking out of a recursive function?](https://stackoverflow.com/questions/10544513/breaking-out-of-a-recursive-function)
 08. [Why does recursion return the first call in the stack and not the last?](https://softwareengineering.stackexchange.com/questions/333247/why-does-recursion-return-the-first-call-in-the-stack-and-not-the-last)
+
+</p>
+</details>
+
+
+### 13. Game Theory
+<details><summary></summary>
+<p>
+
+01. [Intuition for Solving a MiniMax Problems](https://tinyurl.com/ryxxott)
+02. [Game theory — Minimax](https://tinyurl.com/qtfn9jl)
+03. [How to make your Tic Tac Toe game unbeatable by using the minimax algorithm](https://tinyurl.com/t9tedyf)
+
+</p>
+</details>
+
+### 14. Few special DS
+<details><summary></summary>
+<p>
+
+01. [Monotonic Queue Explained with LeetCode Problems](https://tinyurl.com/rn7rsnf)
+
 
 </p>
 </details>
